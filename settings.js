@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
+global.owner = ['22896870256']
+global.premium = ['⁨ད𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪ཌ⁩']
+global.ownernomer = '22896870256'
+global.ownername = '@ད𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪ཌ⁩'
+global.botname = '𓆩❦𝕾𝕮𝕻ꕥ𓆪『🪶BΩT🪽』'
+global.footer = '⁨ད𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪ཌ⁩ '
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
 global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.packname = '𓆩❦𝕾𝕮𝕻ꕥ𓆪『🪶Foundation🪽』'
+global.author = '⁨ད𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪ཌ⁩'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
